@@ -1,0 +1,86 @@
+.richestPeopleimage{
+    width: 300px;
+    height: 350px;
+    margin: 5px;
+    object-fit: fill;
+    padding:3%;
+    border: 5px dashed red;
+
+}
+
+.richestPeopleDiv{
+    width:500px;
+    height:700px;
+    background-color: aquamarine;
+    border: 15px Groove  rgb(217, 16, 137);
+    text-align: center;
+    margin: 20px; 
+    padding: 15px;
+    text-align: center;
+    border-radius: 20px;
+    
+}
+.muskPic{
+    object-fit: 10px -100px;
+} 
+
+.Bernardlogo{
+    background-image:url(./images/bernardlogo.png) ;
+    background-repeat: repeat-x;
+    background-position: 50px 400px;
+    background-clip:  border-box;
+    background-origin: content-box;
+}
+.Jefflogo{
+background-image:url(./images/amazonlogo.png);
+background-size: 50px 50px;
+background-repeat: repeat-y;
+background-position: 250px 400px;
+background-clip: padding-box;
+background-origin: border-box;
+
+}
+.muskDiv{
+    background-image:url(./images/Teslalogo.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    background-clip:  content-box;
+    background-origin: padding-box;
+}
+p{
+    color: brown;
+}
+h2{
+    color: darkgoldenrod;
+}
+h3{
+    color: blueviolet;
+}
+
+.markdiv{
+    background-image: url(./images/marklogo.png);
+    background-repeat: repeat;
+    background-position: 800px 800px;
+    background-attachment: fixed;
+    background-size: 300px 300px;
+    background-clip: content-box;
+    background-color: brown;
+
+}
+h1{
+    text-align: center;
+    color: blue;
+    background-color: black;
+    border-radius:  50%;
+}
+
+
+
+
+
+
+
+
+
+
